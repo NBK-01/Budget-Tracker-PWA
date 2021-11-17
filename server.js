@@ -20,7 +20,6 @@ mongoose.connect("mongodb://localhost/budget", {
     useUnifiedTopology: true,
     useCreateIndex: true,
     useFindAndModify: false
-
 });
 
 
